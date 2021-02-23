@@ -1,7 +1,7 @@
 <h1 align="center">Aloha 🌺, I'm Carmen</h1>
 <h3 align="center">A junior full-stack software developer 📍 Colorado</h3>
 
-- 🌱 I’m currently learning **React & Redux**
+- 🌱 I’m currently learning **React, Redux & Firebase**
 
 - 📫 How to reach me **agatakolohe@gmail.com**
 
