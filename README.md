@@ -1,5 +1,5 @@
 <h1 align="center">Aloha 🌺, I'm Carmen</h1>
-<h3 align="center">A junior full stack software developer in Colorado</h3>
+<h3 align="center">A junior full stack software developer currently in Colorado</h3>
 
 - 🌱 I’m currently learning **React & Redux**
 
@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [linkedin.com/in/agatakolohe/](linkedin.com/in/agatakolohe/)
 
-- ⚡ Fun fact **My real name isn't Carmen 🙊**
+- ⚡ Fun fact **My real name isn't Carmen 🧐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
