@@ -1,5 +1,5 @@
 <h1 align="center">Aloha 🌺 I'm Carmen</h1>
-<h3 align="center">A junior full-stack software developer 📍 Colorado</h3>
+<h3 align="center">Junior full-stack software developer 📍 Colorado</h3>
 
 - 🌱 I’m currently learning **React, Redux & Firebase**
 
