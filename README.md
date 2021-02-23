@@ -1,13 +1,15 @@
 <h1 align="center">Aloha 🌺 I'm Carmen</h1>
 <h3 align="center">Junior full-stack software developer 📍 Colorado</h3>
 
-- 🌱 I’m currently learning **React, Redux & Firebase**
+- 🌱 I’m currently learning: **React, Redux & Firebase**
 
-- 📫 How to reach me **agatakolohe@gmail.com**
+- 📫 How to reach me: **agatakolohe@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/agatakolohe/](linkedin.com/in/agatakolohe/)
+- 📄 Know about my experiences: [linkedin.com/in/agatakolohe/](linkedin.com/in/agatakolohe/)
 
-- ⚡ Fun fact **My real name isn't Carmen 🧐**
+- ⚡ Fun fact: **My real name isn't Carmen 🧐**
+
+- 💻 When I am not at the keyboard: **I am in the mountains ⛰**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
