@@ -1,7 +1,7 @@
 <h1 align="center">Aloha 🌺 I'm Carmen</h1>
 <h3 align="center">Junior Software Developer 📍 Colorado</h3>
 
-- 🌱 I’m currently learning: **React, Redux & Firebase**
+- 🌱 I’m currently learning: **React, React Native, Redux & Firebase**
 
 - 👩‍💻 I'm currently working on: **GoinOffGrid Capstone Project for Epicodus**
 
