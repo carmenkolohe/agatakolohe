@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning: **React, Redux & Firebase**
 
+- 👩‍💻 I'm currently working on: **GoinOffGrid Capstone Project for Epicodus**
+
 - 📫 How to reach me: **agatakolohe@gmail.com**
 
 - 📄 Know about my experiences: [linkedin.com/in/agatakolohe/](linkedin.com/in/agatakolohe/)
