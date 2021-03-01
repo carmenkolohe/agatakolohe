@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences: [linkedin.com/in/agatakolohe/](linkedin.com/in/agatakolohe/)
 
-- ⚡ Fun fact: **My real name isn't Carmen 🧐**
+- 🧐 Fun fact: **My real name isn't Carmen**
 
 - 💻 When I am not at the keyboard: **I am in the mountains ⛰**
 
