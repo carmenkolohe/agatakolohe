@@ -1,9 +1,9 @@
 <h1 align="center">Aloha 🌺 I'm Carmen</h1>
-<h3 align="center">Junior Software Developer 📍 Colorado</h3>
+<h3 align="center">Software Developer 📍 Colorado</h3>
 
-- 🌱 I’m currently learning: **React, React Native, Redux & Firebase**
+- 🌱 I’m currently learning: **React & Node**
 
-- 👩‍💻 I'm currently working on: **GoinOffGrid Capstone Project for Epicodus**
+- 👩‍💻 I'm currently working on: **Internship Project with LifeCenter**
 
 - 📫 How to reach me: **agatakolohe@gmail.com**
 
