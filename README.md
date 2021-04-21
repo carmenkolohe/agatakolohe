@@ -1,9 +1,9 @@
 <h1 align="center">Aloha 🌺 I'm Carmen</h1>
 <h3 align="center">Software Developer 📍 Colorado</h3>
 
-- 🌱 I’m currently learning: **React & Node**
+- 🌱 I’m currently learning: **Material UI**
 
-- 👩‍💻 I'm currently working on: **Internship Project with LifeCenter**
+- 👩‍💻 I'm currently working with: **MySQL, Express, React & Node**
 
 - 📫 How to reach me: **agatakolohe@gmail.com**
 
