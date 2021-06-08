@@ -1,13 +1,9 @@
 <h1 align="center">Carmen 😸</h1>
 <h3 align="center">Software Developer 📍 Washington</h3>
 
-- 🌱 I’m currently learning: **Open Source Contributions**
+- 🌱 I’m currently learning: **Contributing to open source**
 
 - 👩‍💻 I'm currently working with: **Next.js, Cypress, Tailwind**
-
-- 📫 How to reach me: **agatakolohe@gmail.com**
-
-- 📄 Know about my experiences: [linkedin.com/in/agatakolohe/](linkedin.com/in/agatakolohe/)
 
 - 🧐 Fun fact: **My real name isn't Carmen**
 
