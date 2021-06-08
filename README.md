@@ -1,9 +1,9 @@
 <h1 align="center">Carmen 😸</h1>
 <h3 align="center">Software Developer 📍 Washington</h3>
 
-- 🌱 I’m currently learning: **Material UI**
+- 🌱 I’m currently learning: **Open Source Contributions**
 
-- 👩‍💻 I'm currently working with: **MySQL, Express, React & Node**
+- 👩‍💻 I'm currently working with: **Next.js, Cypress, Tailwind**
 
 - 📫 How to reach me: **agatakolohe@gmail.com**
 
