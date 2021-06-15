@@ -1,9 +1,9 @@
 <h1 align="center">Carmen 😸</h1>
 <h3 align="center">Software Developer 📍 Vancouver, Washington</h3>
 
-- 🌱  I’m currently learning: **Contributing to open source**
+- 🌴  I’m currently: **Contributing to open source**
 
-- 👩‍💻  I'm currently working with: **Next.js, Cypress, Tailwind**
+- 👩‍💻  I'm currently working with: **Next.js && Cypress**
 
 - 🧐  Fun fact: **My real name isn't Carmen**
 
