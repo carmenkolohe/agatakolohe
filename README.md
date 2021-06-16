@@ -3,11 +3,11 @@
 
 - 🌴  I’m currently: **Contributing to open source**
 
-- 👩‍💻  I'm currently working with: **Next.js && Cypress**
+- 👩‍💻  I'm working with: **Next.js && Cypress**
 
-- 🧐  Fun fact: **My real name isn't Carmen**
+- 🧐  Fun fact: **My real name is !Carmen**
 
-- 💻  When I am not at the keyboard: **I am in the mountains ⛰**
+- AFK ?  🥾⛰ : ☕️💻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
