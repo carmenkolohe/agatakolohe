@@ -7,7 +7,7 @@
 
 - 🧐  Fun fact: **My real name is !Carmen**
 
-- AFK ?  🥾⛰ : ☕️💻
+- `AFK  ?   🥾⛰  :  ☕️💻`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
