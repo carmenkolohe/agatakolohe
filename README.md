@@ -4,10 +4,10 @@
 
 - `🧠  I’m currently: Learning Terraform`
 
-- `💻  I'm working with: Node.js && React`
+- `💻  I'm working with: NextJS`
 
 - `🧐  Fun fact: My real name is !Carmen`
 
 - `AFK  ?   🥾⛰  :  ☕️💻`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carmenkolohe&show_icons=true&locale=en" alt="carmenkolohe" /></p>
+![Carmen's GitHub stats](https://github-readme-stats.vercel.app/api?username=carmenkolohe&show_icons=true&theme=cobalt)
