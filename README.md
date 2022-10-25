@@ -9,5 +9,3 @@
 - `🧐  Fun fact: My real name is !Carmen`
 
 - `AFK  ?   🥾⛰  :  ☕️💻`
-
-![Carmen's GitHub stats](https://github-readme-stats.vercel.app/api?username=carmenkolohe&show_icons=true&theme=cobalt)
